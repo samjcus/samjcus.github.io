@@ -1,2 +1,3 @@
-name: Sam Cusworth : Personal Page
-markdown:kramdown
+name: "Sam Cusworth : Personal Page"
+markdown: kramdown
+highlighter: rouge
